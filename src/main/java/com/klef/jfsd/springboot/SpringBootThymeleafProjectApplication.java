@@ -8,7 +8,7 @@ public class SpringBootThymeleafProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootThymeleafProjectApplication.class, args);
-		System.out.println("Thymeleaf Project is Running....");
+		System.out.println(" Hello, This Thymeleaf Project is Running....");
 	}
 
 }
